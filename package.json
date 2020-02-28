@@ -1,0 +1,26 @@
+{
+  "name": "hyper-tsukasa",
+  "version": "1.0.0",
+  "description": "Hyper theme of Tsukasa-Tenkai",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash1da1/hyper-tsukasa.git"
+  },
+  "keywords": [
+    "\"hyper\"",
+    "\"Hyper-theme\"",
+    "\"Hyper-term\"",
+    "\"Vtuber\"",
+    "\"Tenkai-Tsukasa\""
+  ],
+  "author": "HASH1da1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash1da1/hyper-tsukasa/issues"
+  },
+  "homepage": "https://github.com/hash1da1/hyper-tsukasa#readme"
+}
